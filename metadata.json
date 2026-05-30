@@ -1,0 +1,6 @@
+{
+  "name": "Organizador de Produtos para Redes Sociais",
+  "description": "Organizador de campanhas de afiliados e posts com monitoramento de área de transferência, renomeação automática de mídias e geração de conteúdo com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
